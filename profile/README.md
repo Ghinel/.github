@@ -1,25 +1,23 @@
 # Ghinel
 
-Welcome to the Ghinel organization on GitHub!
+> Making African knowledge accessible to everyone.
 
-## About Us
+Ghinel is a digital platform dedicated to African literary, historical and scientific heritage. We build tools that connect readers, authors and researchers around the richness of the continent.
 
-Ghinel is a platform dedicated to promoting literary, historical and scientific works from Africa. Our mission is to provide easy, user-friendly access to an extensive catalog of digital books, enabling readers around the world to discover and appreciate the diversity and cultural richness of the African continent.
+## What we're building
 
-## Our objective
+- **Papyrus** — A digital library giving access to African books, history and science
+- **GriotBot** — An AI assistant inspired by Beninese griots, blending ancestral wisdom and modern intelligence
+- **Behanzin** — Dada of Dahomey, an immersive historical experience
 
-Our goal is to create a vibrant and inclusive community, where authors, readers and enthusiasts of Africa can connect, exchange ideas and explore the fascinating world of African literature together.
+## Get involved
 
-## Contributions
+We welcome contributions from developers, writers, researchers and anyone passionate about African culture.
 
-We welcome community contributions! Whether you are a developer, writer, researcher or simply a lover of African culture, there are many ways to contribute to Ghinel:
-
-- Development: If you are a developer who is passionate about building web applications and would like to help improve our platform, check out our open projects and issues to find contribution opportunities.
-- Content: If you are a writer, editor or researcher interested in promoting African literature, history or science, please share your ideas and suggestions to enrich our catalog of digital books.
-- Feedback: Your opinion matters! We are always listening to your feedback and suggestions to improve the Ghinel user experience. Feel free to open an issue to report a bug, request a feature, or simply share your feedback.
+- **Report a bug or suggest a feature** — open an issue on the relevant repository
+- **Share content** — reach out if you want to contribute texts, stories or research
+- **Collaborate** — we're open to partnerships around African knowledge and culture
 
 ## Contact
 
-For any questions, suggestions or requests for collaboration, do not hesitate to contact us at the following address: contact@ghinel.io
-
-Thank you for your interest in Ghinel!
+**contact@ghinel.io** · [ghinel.com](https://ghinel.com)
