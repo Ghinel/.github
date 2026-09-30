@@ -28,4 +28,4 @@ Much of African memory still exists on no server at all. Undocumented oral tradi
 
 ---
 
-**[ghinel.com](https://ghinel.com) · contact@ghinel.io**
+**[ghinel.com](https://ghinel.com) · [LinkedIn](https://www.linkedin.com/company/ghinel) · contact@ghinel.io**
