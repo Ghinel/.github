@@ -4,56 +4,69 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=22&duration=3500&pause=1000&color=C1121F&center=true&vCenter=true&width=700&lines=We're+building+Africa's+digital+memory.;Conversational+AI.+Interactive+libraries.+Immersive+experiences.;Turn+African+heritage+into+products+you+can+use+today.)](https://ghinel.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=22&duration=3500&pause=1200&color=EFB034&center=true&vCenter=true&width=720&lines=We're+building+Africa's+digital+memory.;Conversational+AI.+Interactive+libraries.+Immersive+experiences.;Turn+African+heritage+into+products+you+can+use+today.)](https://ghinel.com)
 
 <br/>
 
-[![Website](https://img.shields.io/badge/ghinel.com-C1121F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ghinel.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/ghinel)
-[![Email](https://img.shields.io/badge/contact@ghinel.io-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ghinel.io)
+[![Website](https://img.shields.io/badge/ghinel.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=EFB034)](https://ghinel.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=EFB034)](https://www.linkedin.com/company/ghinel)
 
 </div>
 
 <br/>
 
-## GHINEL LABS &nbsp; Our products
+<div align="center"><h2>GHINEL LABS &nbsp; · &nbsp; Our Products</h2></div>
 
 <table>
 <tr>
 
 <td align="center" width="33%">
+
+<img src="https://ghinel.com/img/kondo-hero.jpg" width="100%" alt="KONDO"/>
+
 <br/>
+
 <h3>🗣️ KONDO</h3>
-<img src="https://img.shields.io/badge/LIVE-2E7D32?style=flat-square&logoColor=white" alt="live"/>
-<br/><br/>
+
+![](https://img.shields.io/badge/LIVE-EFB034?style=flat-square&labelColor=0f172a&color=EFB034)
+
 Talk with the great figures of African history. Sundiata, Queen Nzinga, Behanzin — they're waiting.
-<br/><br/>
-<a href="https://ghinel.com"><b>Open the experience →</b></a>
-<br/><br/>
+
+**[Open the experience →](https://ghinel.com)**
+
 </td>
 
 <td align="center" width="33%">
+
+<img src="https://ghinel.com/img/papyrus-hero.jpg" width="100%" alt="PAPYRUS"/>
+
 <br/>
+
 <h3>📚 PAPYRUS</h3>
-<img src="https://img.shields.io/badge/IN%20DEVELOPMENT-1565C0?style=flat-square" alt="in dev"/>
-<br/><br/>
-African literary heritage, readable anywhere at last. Books, history, science — on every screen.
-<br/><br/>
-<a href="https://ghinel.com"><b>Learn more →</b></a>
-<br/><br/>
+
+![](https://img.shields.io/badge/IN%20DEVELOPMENT-0f172a?style=flat-square&labelColor=0f172a&color=EFB034&label=IN+DEVELOPMENT)
+
+African literary heritage, readable anywhere at last. Books, history, science on every screen.
+
+**[Learn more →](https://ghinel.com)**
+
 </td>
 
 <td align="center" width="33%">
+
+<img src="https://ghinel.com/img/produit-tike.jpg" width="100%" alt="TIKÉ 229"/>
+
 <br/>
+
 <h3>🎭 TIKÉ 229</h3>
-<img src="https://img.shields.io/badge/LIVE-2E7D32?style=flat-square" alt="live"/>
-<br/><br/>
-<img src="https://raw.githubusercontent.com/Ghinel/tike229-landing-page/main/public/images/hero-foule.webp" width="100%" alt="Tiké 229"/>
-<br/><br/>
+
+![](https://img.shields.io/badge/LIVE-EFB034?style=flat-square&labelColor=0f172a&color=EFB034)
+
 Ticketing in service of Beninese art and culture.
-<br/><br/>
-<a href="https://ghinel.com"><b>Open →</b></a>
-<br/><br/>
+
+**[Open →](https://ghinel.com)**
+
 </td>
 
 </tr>
@@ -61,28 +74,38 @@ Ticketing in service of Beninese art and culture.
 
 <br/>
 
-## GHINEL CREATIVE &nbsp; Our services
-
-Brand, marketing, web and mobile platforms, AI.
-The team that built KONDO builds your project.
-
-> **[Work with us →](https://ghinel.com)**
-
-<br/>
+<div align="center"><h2>GHINEL CREATIVE &nbsp; · &nbsp; Our Services</h2></div>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ghinel/tike229-landing-page/main/public/images/hero-rooftop.webp" width="80%" alt="Ghinel Creative"/>
+<img src="https://ghinel.com/img/equipe-hero.jpg" width="80%" alt="Ghinel Creative"/>
+
+<br/><br/>
+
+Brand, marketing, web and mobile platforms, AI.<br/>
+The team that built KONDO builds your project.
+
+<br/><br/>
+
+[![Work with us](https://img.shields.io/badge/Work%20with%20us-EFB034?style=for-the-badge&labelColor=0f172a&color=EFB034)](https://ghinel.com)
 
 </div>
 
 <br/>
 
-## Why it matters
+<div align="center"><h2>Why it matters</h2></div>
 
-Much of African memory still exists on no server at all.
+<div align="center">
 
-Undocumented oral traditions, inaccessible works, archives scattered off the continent. We're building the infrastructure that's missing.
+<table><tr>
+<td><img src="https://ghinel.com/img/memoire-1.jpg" width="100%" alt=""/></td>
+<td><img src="https://ghinel.com/img/memoire-2.jpg" width="100%" alt=""/></td>
+<td><img src="https://ghinel.com/img/memoire-3.jpg" width="100%" alt=""/></td>
+</tr></table>
+
+</div>
+
+Much of African memory still exists on no server at all. Undocumented oral traditions, inaccessible works, archives scattered off the continent. We're building the infrastructure that's missing.
 
 **[Read our mission →](https://ghinel.com)**
 
@@ -90,12 +113,12 @@ Undocumented oral traditions, inaccessible works, archives scattered off the con
 
 <div align="center">
 
-🏅 &nbsp; **Honourable mention — Deep Learning Indaba Ideathon 2025**
+🏅 &nbsp; **Honourable mention · Deep Learning Indaba Ideathon 2025**
 
 🌍 &nbsp; Supported by the **World Bank** through the Next Impact programme, implemented by Sèmè City Development Agency
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C1121F,780000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,EFB034&height=120&section=footer" width="100%"/>
 
 </div>
