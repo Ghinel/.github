@@ -1,23 +1,31 @@
 # Ghinel
 
-> Making African knowledge accessible to everyone.
+**We're building Africa's digital memory.**
 
-Ghinel is a digital platform dedicated to African literary, historical and scientific heritage. We build tools that connect readers, authors and researchers around the richness of the continent.
+Conversational AI, interactive libraries, immersive experiences. We turn African heritage into products you can use today.
 
-## What we're building
+---
 
-- **Papyrus** — A digital library giving access to African books, history and science
-- **GriotBot** — An AI assistant inspired by Beninese griots, blending ancestral wisdom and modern intelligence
-- **Behanzin** — Dada of Dahomey, an immersive historical experience
+## GHINEL LABS — Products
 
-## Get involved
+| | |
+|---|---|
+| **KONDO** 🟢 Live | Talk with the great figures of African history |
+| **PAPYRUS** 🔵 In development | African literary heritage, readable anywhere at last |
+| **TIKÉ 229** 🟢 Live | Ticketing in service of Beninese art |
 
-We welcome contributions from developers, writers, researchers and anyone passionate about African culture.
+## GHINEL CREATIVE — Services
 
-- **Report a bug or suggest a feature** — open an issue on the relevant repository
-- **Share content** — reach out if you want to contribute texts, stories or research
-- **Collaborate** — we're open to partnerships around African knowledge and culture
+Brand, marketing, web and mobile platforms, AI.  
+The team that built KONDO builds your project — [work with us](https://ghinel.com).
 
-## Contact
+---
 
-**contact@ghinel.io** · [ghinel.com](https://ghinel.com)
+Much of African memory still exists on no server at all. Undocumented oral traditions, inaccessible works, archives scattered off the continent. We're building the infrastructure that's missing.
+
+🏅 Honourable mention — Deep Learning Indaba Ideathon 2025  
+🌍 Supported by the World Bank through the Next Impact programme, implemented by Sèmè City Development Agency
+
+---
+
+**[ghinel.com](https://ghinel.com) · contact@ghinel.io**
